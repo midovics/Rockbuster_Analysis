@@ -1,5 +1,5 @@
 # Rockbuster_Analysis
-Analysis of the PostgreSQL Sample Database using SQL as part of CareerFoundry Data Analysis course
+Analysis of the PostgreSQL Sample Database using SQL as part of CareerFoundry Data Analytics course
 # Objective
 Rockbuster is a fictitious movie rental company, planning to use its existing movie licenses to launch an online video rental service. The goal of this analysis is to assist in gaining the data-driven insights of the company's performance and help in decision-making while launching online strategy.
 # Data
